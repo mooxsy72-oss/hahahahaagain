@@ -1,13 +1,13 @@
 844 modern ж
 845 modern ж
-846 modern ж
+846 osen ж
 847 modern ж
-848 modern ж
+848 elegant ж
 849 modern ж
-850 modern ж
+850 osen ж
 851 modern ж
 852 modern ж
-853 modern ж
+853 ofis ж
 854 ж
 855 ж
 856 ж
@@ -46,7 +46,7 @@
 889 summer ж
 890 summer ж
 891 summer ж
-892 summer ж
+892 ofis ж
 893 summer ж
 894 summer ж
 895 summer ж
