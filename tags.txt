@@ -69,3 +69,6 @@
 921-922 modern м
 923 osen м
 924 modern м
+925-931 osen м
+932-937 elegant ж
+938 ж
