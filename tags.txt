@@ -2,7 +2,7 @@
 845 modern ж
 846 osen ж
 847 modern ж
-848 elegant ж
+848 офис ж
 849 modern ж
 850 osen ж
 851 modern ж
@@ -26,7 +26,7 @@
 869 ж
 870 ж
 871 elegant ж
-872 elegant ж
+872 modern ж
 873 modern ж
 874 summer ж
 875 summer ж
@@ -72,7 +72,9 @@
 925-931 osen м
 932-937 elegant ж
 938 ж
-939-946 elegant ж
+939-943 elegant ж
+944 офис ж
+945-946 вечер ж
 947-948 osen ж
 949 зима ж
 950 осень ж
